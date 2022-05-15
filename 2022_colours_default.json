@@ -1,0 +1,310 @@
+[{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d219378"
+  },
+  "code": "ptnr",
+  "name": "Partner Blue",
+  "rgb": [
+    65,
+    135,
+    237,
+    255
+  ],
+  "emoji": "pl_ptnr:541841829679857664"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d219380"
+  },
+  "code": "blank",
+  "name": "Blank tile",
+  "rgb": [
+    88,
+    101,
+    242,
+    127
+  ],
+  "emoji": "pl_blank:540761786484391957"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d21937e"
+  },
+  "code": "ntbl",
+  "name": "Nitro Blue",
+  "rgb": [
+    79,
+    93,
+    127,
+    255
+  ],
+  "emoji": "pl_ntbl:541841829318885396"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d21937d"
+  },
+  "code": "grpl",
+  "name": "Greyple",
+  "rgb": [
+    153,
+    170,
+    181,
+    255
+  ],
+  "emoji": "pl_grpl:541841829453103142"
+},{
+  "_id": {
+    "$oid": "5eaa199acfde92ead82f0eb4"
+  },
+  "code": "edit",
+  "name": "Edit tile",
+  "rgb": [
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "emoji": "pl_edit:540761787662991370"
+},{
+  "_id": {
+    "$oid": "5eacf318c38fa7362d0e3446"
+  },
+  "code": "ldbp",
+  "name": "Legacy Dark Blurple",
+  "rgb": [
+    78,
+    93,
+    148,
+    255
+  ],
+  "emoji": "pl_ldbp:705994244434952192"
+},{
+  "_id": {
+    "$oid": "5eacf36dc38fa7362d0e3447"
+  },
+  "code": "bstp",
+  "name": "Boost Pink",
+  "rgb": [
+    244,
+    127,
+    255
+  ],
+  "emoji": "pl_bstp:705994244413849720"
+},{
+  "_id": {
+    "$oid": "5eacf398c38fa7362d0e3448"
+  },
+  "code": "devl",
+  "name": "Developer Blue",
+  "rgb": [
+    62,
+    112,
+    221
+  ],
+  "emoji": "pl_devl:705994244430495794"
+},{
+  "_id": {
+    "$oid": "5eacf3ebc38fa7362d0e344a"
+  },
+  "code": "dgry",
+  "name": "Dark Mode Grey",
+  "rgb": [
+    54,
+    57,
+    63
+  ],
+  "emoji": "pl_dgry:705994470507806821"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d21937b"
+  },
+  "code": "whte",
+  "name": "Full White",
+  "rgb": [
+    255,
+    255,
+    255,
+    255
+  ],
+  "emoji": "pl_whte:546829770055352340"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d21937c"
+  },
+  "code": "ntgr",
+  "name": "Nitro Grey",
+  "rgb": [
+    183,
+    194,
+    206,
+    255
+  ],
+  "emoji": "pl_ntgr:541841829520211968"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d219374"
+  },
+  "code": "brll",
+  "name": "Brilliance Red",
+  "rgb": [
+    244,
+    123,
+    103,
+    255
+  ],
+  "emoji": "pl_brll:541841828844929025"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d219377"
+  },
+  "code": "blnc",
+  "name": "Balance Cyan",
+  "rgb": [
+    69,
+    221,
+    192,
+    255
+  ],
+  "emoji": "pl_blnc:541841828652122133"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d219375"
+  },
+  "code": "hpsq",
+  "name": "Hypesquad Yellow",
+  "rgb": [
+    248,
+    165,
+    50,
+    255
+  ],
+  "emoji": "pl_hpsq:541841829969133571"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d219379"
+  },
+  "code": "lbpl",
+  "name": "Legacy Blurple",
+  "rgb": [
+    114,
+    137,
+    218,
+    255
+  ],
+  "emoji": "pl_lbpl:540761785884737537"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d219376"
+  },
+  "code": "bhnt",
+  "name": "Bug Hunter Green",
+  "rgb": [
+    72,
+    183,
+    132,
+    255
+  ],
+  "emoji": "pl_bhnt:541841828454858801"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d21937a"
+  },
+  "code": "brvy",
+  "name": "Bravery Purple",
+  "rgb": [
+    156,
+    132,
+    239,
+    255
+  ],
+  "emoji": "pl_brvy:541841829256101899"
+},{
+  "_id": {
+    "$oid": "5eaa186df42a0b050d21937f"
+  },
+  "code": "nqbl",
+  "name": "Not Quite Black",
+  "rgb": [
+    35,
+    39,
+    42,
+    255
+  ],
+  "emoji": "pl_nqbl:708466247595196447"
+},{
+  "_id": {
+    "$oid": "62734d19259d3f6016ffb91d"
+  },
+  "name": "Blurple",
+  "emoji": "pl_blpl:971623647758401566",
+  "rgb": [
+    88,
+    101,
+    242,
+    255
+  ],
+  "code": "blpl"
+},{
+  "_id": {
+    "$oid": "62734d5e259d3f6016ffb91e"
+  },
+  "name": "Dark Blurple",
+  "emoji": "pl_dbpl:971623993570386010",
+  "rgb": [
+    69,
+    79,
+    191,
+    255
+  ],
+  "code": "dbpl"
+},{
+  "_id": {
+    "$oid": "6274f17acd336c6ca0546dce"
+  },
+  "name": "Discord Fuchsia",
+  "code": "fchs",
+  "emoji": "pl_fchs:972075085320040558",
+  "rgb": [
+    235,
+    69,
+    158,
+    255
+  ]
+},{
+  "_id": {
+    "$oid": "6274f1a5cd336c6ca0546dcf"
+  },
+  "name": "Discord Red",
+  "code": "dred",
+  "emoji": "pl_dred:972075271983345734",
+  "rgb": [
+    237,
+    66,
+    69,
+    255
+  ]
+},{
+  "_id": {
+    "$oid": "6274f1c3cd336c6ca0546dd0"
+  },
+  "name": "Discord Yellow",
+  "code": "yllw",
+  "emoji": "pl_yllw:972075394402496512",
+  "rgb": [
+    254,
+    231,
+    92,
+    255
+  ]
+},{
+  "_id": {
+    "$oid": "6274f1e2cd336c6ca0546dd1"
+  },
+  "name": "Discord Green",
+  "code": "gren",
+  "emoji": "pl_gren:972075524383989810",
+  "rgb": [
+    87,
+    242,
+    135,
+    255
+  ]
+}]
